@@ -1,0 +1,8 @@
+name: Assassin
+version: 1.0.0
+main: me.noswearing.assassin.Assassin
+commands:
+  astart:
+    description: Start a game of Assassin
+  aconfig:
+    description: Configure Assassin
